@@ -5,6 +5,13 @@ const colors = [
 	"#f15025",
 	"blue",
 	"#cccccc",
+	"#e5e5e5",
+	"#f62583",
+	"#cf4567",
+	"aqua",
+	"whitesmoke",
+	"#657898",
+	"#258736",
 ];
 const btn = document.getElementById("btn");
 const color = document.querySelector(".color");
